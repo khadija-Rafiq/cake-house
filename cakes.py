@@ -19,7 +19,7 @@ st.markdown(
 st.write("### Our Special Cakes")
 
 images = [
-    ("https://lh7-us.googleusercontent.com/deUjCibeWOmmP61DEhu8yXmJdLWee_zshcSJwDuMTnCuopoc9MMLbZ-YnS7sHmzfQCjPutJ1XW7Xp1k-y50_1Z2R4bfV1kTyvDqiqt3qv6j0m1yAxjHphWuIPrwNyhbB99NpjJyX33rAetGo17Jm6ZzYDprtYA", "Rs. 1500"),
+    ("./images/chocolate.jpg", "Rs. 1500"),
     ("./images/cake_02.jpg", "Rs. 1800"),
     ("./images/cake_03.png", "Rs. 1500"),
     ("./images/cake_04.jpg", "Rs. 1600"),
@@ -70,3 +70,13 @@ st.markdown("""
         📍 Location: Karachi, Pakistan
     </p>
 """, unsafe_allow_html=True)
+
+
+
+
+
+
+
+
+
+
