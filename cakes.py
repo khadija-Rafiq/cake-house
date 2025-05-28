@@ -30,7 +30,18 @@ images = [
     ("./images/swsqaxkj.png", "Rs. 1500"),
     ("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9vhj6z20ofBQB--EjrF9DCdUsyeaaPN1ZRg&s", "Rs. 1600"),
     ("./images/cake_09.png","Rs, 1500"),
-    
+
+    ("./images/cake1.jpg","Rs, 1500"),
+    ("./images/cake2.jpg","Rs, 1500"),
+    ("./images/cake3.jpg","Rs, 1500"),
+    ("./images/cake4.jpg","Rs, 1500"),
+    ("./images/cake9.jpg","Rs, 1500"),
+
+    ("./images/cake5.jpg","Rs, 1500"),
+    ("./images/cake6.jpg","Rs, 1500"),
+    ("./images/cake7.jpg","Rs, 1500"),
+    ("./images/cake8.jpg","Rs, 1500"),
+        
 ]
 
 # Dynamically create rows with 3 images per row
